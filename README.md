@@ -5,4 +5,5 @@
 - Update Data
 - Query operation
 - Aggregate operation
+- Importing CSV to MongoDB
 - Few useful operations
